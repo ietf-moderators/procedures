@@ -1,4 +1,4 @@
-# Scape of the moderation procedures
+# Scope of the moderation procedures
 
 This file lists which forums are in and out of scope for the [moderation procedures](procedures.md).
 The moderator team keeps it up to date. Where a forum is not listed, ask the moderator team.
