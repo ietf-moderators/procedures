@@ -76,6 +76,7 @@ Disruption can take any of these forms.
 - Repeated inclusion of derivative rights notices
 	- As per the [IESG statement](https://datatracker.ietf.org/doc/statement-iesg-statement-on-clarifying-derivative-works-rights/)
 - Messages containing slop
+- Debating specific moderation actions on any list other than the list(s) designated for that purpose.
 
 ### Counting incidents
 
