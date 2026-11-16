@@ -411,9 +411,8 @@ incident occurs within one year after the end of a previous five-year remedy, wh
 incident count at that time.
 
 A single incident, however serious, unlocks nothing beyond a 3-day remedy. Where conduct is serious
-enough that the ladder is plainly an inadequate response, refer the matter to the Ombudsteam (if it may be
-[harassment](https://datatracker.ietf.org/doc/statement-iesg-ietf-anti-harassment-policy-20131103/))
-or raise it with the IESG. These procedures do not give administrators a route around the ladder.
+enough that the ladder is plainly an inadequate response, raise the matter with the IESG.
+This procedure does not give administrators a route around the ladder.
 
 ### Choosing between a hold and a ban
 
